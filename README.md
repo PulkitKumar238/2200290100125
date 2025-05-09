@@ -132,6 +132,7 @@ A full-stack application for real-time stock price analysis and correlation visu
 
 ![image](https://github.com/user-attachments/assets/6cc3044d-4ae6-4709-8ed7-852831177e1d)
 ![image](https://github.com/user-attachments/assets/291d7e7c-87df-49bd-8dc7-547f720fa7d8)
+![Screenshot 2025-05-09 194904](https://github.com/user-attachments/assets/23b421eb-b6a7-4bf4-b798-14820da1426e)
 
 
 ## Notes

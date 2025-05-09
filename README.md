@@ -127,6 +127,12 @@ A full-stack application for real-time stock price analysis and correlation visu
    - Environment variables for sensitive data
    - CORS configuration
    - Input validation
+  
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/6cc3044d-4ae6-4709-8ed7-852831177e1d)
+![image](https://github.com/user-attachments/assets/291d7e7c-87df-49bd-8dc7-547f720fa7d8)
+
 
 ## Notes
 
